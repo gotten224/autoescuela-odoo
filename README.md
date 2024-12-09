@@ -1,2 +1,2 @@
-# autoescuela-odoo
+# autoescuela
 a
